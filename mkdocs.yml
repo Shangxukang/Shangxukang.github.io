@@ -1,0 +1,28 @@
+site_name: Shangxukang · Technical Notes
+
+nav:
+  - 首页: index.md
+
+  - ⛓ 区块链:
+      - 总览: blockchain/index.md
+      - Bitcoin:
+          - 区块与UTXO: blockchain/bitcoin.md
+          - 共识机制: blockchain/consensus.md
+      - Lightning Network: blockchain/lightning.md
+      - EVM 执行模型: blockchain/evm.md
+
+  - 🌐 元宇宙:
+      - 总览: metaverse/index.md
+      - Agent 与虚拟主体: metaverse/agent.md
+      - ABM 建模: metaverse/abm.md
+      - VR / XR 技术: metaverse/vr.md
+      - 虚拟世界结构: metaverse/virtual_world.md
+
+  - 💻 General CS:
+      - 总览: cs/index.md
+      - 操作系统:
+          - xv6 实验: cs/os/xv6.md
+          - 文件系统: cs/os/filesystem.md
+      - 计算机网络: cs/networking.md
+      - 数据库系统: cs/database.md
+      - 算法与数据结构: cs/algorithms.md
