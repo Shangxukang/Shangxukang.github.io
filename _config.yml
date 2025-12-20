@@ -1,6 +1,6 @@
 title: Shangxukang Notes
 description: Blockchain / Metaverse / General CS
-theme: minima
+theme: jekyll-theme-minimal
 
 markdown: kramdown
 kramdown:
@@ -8,6 +8,3 @@ kramdown:
 
 plugins:
   - jekyll-feed
-
-# 可选：让 /blockchain 这种链接更干净
-permalink: /:categories/:title/
